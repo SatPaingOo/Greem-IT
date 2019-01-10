@@ -1,0 +1,17 @@
+nav{
+    background-color: #333;
+    color: blue;
+}
+
+.navbar-brand {
+    color: green;
+}
+
+#navbarsExampleDefault {
+    color: green;
+}
+
+a {
+    color: #aaa;
+    font-weight: 200;
+}
